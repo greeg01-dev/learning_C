@@ -4,7 +4,7 @@ int main() {
     char *name = "Gawl Gura"; // make a string variable
     int age = 9485; // make a integer variable
     unsigned int birth[2] = { 6, 20 }; // make an unsigned integer array (maybe learn next)
-    float height = 141.0; // make an float variable
+    float height = 141.0; // make a float variable
     char comment = 'a'; // make a character variable
 
     name = "Gawr Gura"; // change variable
