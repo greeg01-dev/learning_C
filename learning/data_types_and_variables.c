@@ -15,4 +15,6 @@ int main() {
     printf("birth: %u/%u \n", birth[0], birth[1]);
     printf("height: %.1f \n", height);
     printf("comment: %c", comment);
+
+    return 0;
 }
